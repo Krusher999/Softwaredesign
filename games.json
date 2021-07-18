@@ -1,0 +1,87 @@
+[
+    {
+        "gameTitle": "Fuwa",
+        "gameSizeX": 3,
+        "gameSizeY": 3,
+        "gameData": [
+            [
+                "Marktplatz",
+                "Weg",
+                "HFU"
+            ],
+            [
+                "Weg",
+                "Bank",
+                "Weg"
+            ],
+            [
+                "Citykebap",
+                "Weg",
+                "Straße"
+            ]
+        ]
+    },{
+        "gameTitle": "Zelda",
+        "gameSizeX": 3,
+        "gameSizeY": 3,
+        "gameData": [
+            [
+                "Wald  ",
+                "Weg",
+                "Weg"
+            ],
+            [
+                "Weg",
+                "Schrein",
+                "Weg"
+            ],
+            [
+                "Weg",
+                "Weg",
+                "Haus"
+            ]
+        ]
+    },{
+        "gameTitle": "Skyrim",
+        "gameSizeX": 3,
+        "gameSizeY": 3,
+        "gameData": [
+            [
+                "Feld",
+                "Weg",
+                "Weg"
+            ],
+            [
+                "Höhle",
+                "Weg",
+                "Weg"
+            ],
+            [
+                "Wasser",
+                "Weg",
+                "Tempel"
+            ]
+        ]
+    },{
+        "gameTitle": "Example",
+        "gameSizeX": 3,
+        "gameSizeY": 3,
+        "gameData": [
+            [
+                "NorthWest",
+                "North",
+                "NorthEast"
+            ],
+            [
+                "West",
+                "Middle",
+                "East"
+            ],
+            [
+                "SouthWest",
+                "South",
+                "SouthEast"
+            ]
+        ]
+    }
+]

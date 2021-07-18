@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "nullObject",
+        "password": "nullObject",
+        "age": 0,
+        "sex": 0
+    },
+    {
+        "id": 1,
+        "name": "Name",
+        "password": "passwort",
+        "age": 0,
+        "sex": 0
+    },
+    {
+        "id": 2,
+        "name": "Koray",
+        "password": "Lol",
+        "age": 0,
+        "sex": 0
+    }
+]
